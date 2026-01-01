@@ -1,7 +1,7 @@
 # Hi, I'm Chris 👋🏿
 
 
-### 👨‍💻 About Me
+### 👨🏿‍💻 About Me
 
 I'm a product manager passionate about building clean, efficient, and user-centric solutions. I love exploring new technologies and pushing the boundaries of what's possible with code.
 
