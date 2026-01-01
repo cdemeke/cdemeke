@@ -9,10 +9,3 @@ I'm a product manager passionate about building clean, efficient, and user-centr
 - 💬 Ask me about *Google Developers*, *product management*, or *AI*. 
 
 ---
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://x.com/ChrisDemeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ChrisDemeke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cdemeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cdemeke" height="30" width="40" /></a>
-</p>
